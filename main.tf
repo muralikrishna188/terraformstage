@@ -20,7 +20,7 @@ provider "azurerm" {
   
 }
 locals {
-  setup_name = "practice-hyd"
+  setup_name = "practice-bnglr"
 }
 
 resource "azurerm_resource_group" "webapprg1" {
